@@ -1,6 +1,6 @@
 var f_initBranch(){
 
 }
-var Feture2(){
-    console.log('f2')
+var F1 = function feture1() {
+    console.log('Feture1')
 }
