@@ -1,3 +1,0 @@
-var f_initBranch(){
-
-}
